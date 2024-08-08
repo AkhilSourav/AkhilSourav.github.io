@@ -19,7 +19,12 @@ header {
     padding: 20px;
     border: 1px solid #ddd;
     border-radius: 8px;
+    
 }
+
+.link { color: #FF0000; }
+
+.link:hover { color: #00FF00; }
 
 
 .image-section {
