@@ -65,7 +65,16 @@ footer {
 }
 
 #linkedin-link:hover {
-    color: #FFABAB; 
+    color: #c2f607; 
+}
+
+#gitHub-link {
+    color: #FF6F61; 
+    text-decoration: none;
+}
+
+#gitHub-link:hover {
+    color: #309776; 
 }
 
 
